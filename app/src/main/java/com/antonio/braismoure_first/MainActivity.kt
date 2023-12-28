@@ -46,7 +46,7 @@ fun MyComponent() {
         .background(MaterialTheme.colorScheme.background)
         .padding(8.dp)) {
         MyImage()
-        MyTexts()
+        MyTexts()/**/
     }
 }
 
